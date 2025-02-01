@@ -6,7 +6,7 @@
 
 其中 Python 部分是根据 [@TonyCrane](https://github.com/TonyCrane) 前辈的 [mkdocs-statistics-plugin](https://github.com/TonyCrane/mkdocs-statistics-plugin) 修改而来的，所以代码的一些部分与其十分相似。
 
-可以把这个插件当作获取灵感的途径~~，也可以就把它当个打发闲暇时间的玩具。~~
+可以把这个插件当作获取灵感的途径 ~~，也可以就把它当个打发闲暇时间的玩具。~~
 
 预览：<https://note.noughtq.top/>（我的笔记首页“笔记漫游”链接）
 
@@ -18,14 +18,14 @@
 可以通过 pypi 直接安装：
 
 ```sh
-$ pip install mkdocs-random_walk-plugin
+$ pip install mkdocs-random-walk-plugin
 ```
 
 也可以通过源码安装：
 
 ```sh
 $ git clone https://github.com/NoughtQ/mkdocs-random_walk-plugin.git
-$ cd mkdocs-random_walk-plugin
+$ cd mkdocs-random-walk-plugin
 $ pip install . 
 ```
 

@@ -11,7 +11,7 @@ def read(fname):
 
 setup(
     name='mkdocs-random_walk-plugin',
-    version='0.1.0',
+    version='0.1.1',
     author='NoughtQ',
     author_email='noughtq666@gmail.com',
     description='A MkDocs plugin that generates a random link of pages',
@@ -35,10 +35,10 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
-        'Programming Language :: Python :: 3.10'
-        'Programming Language :: Python :: 3.11'
-        'Programming Language :: Python :: 3.12'
-        'Programming Language :: Python :: 3.13'
+        'Programming Language :: Python :: 3.10', 
+        'Programming Language :: Python :: 3.11', 
+        'Programming Language :: Python :: 3.12', 
+        'Programming Language :: Python :: 3.13', 
     ],
     entry_points={
         'mkdocs.plugins': [
